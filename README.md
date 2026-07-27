@@ -14,6 +14,8 @@ Losing a customer costs more than keeping one. This model flags at-risk customer
 2. **Contract type** — month-to-month customers churn at ~4x the rate of annual/2-year contract customers.
 3. **Billing & internet service type** — higher charges and fiber-optic service correlate with higher churn.
 
+
+
 **Takeaway for the business:** incentivizing longer contracts and monitoring newer/high-bill customers closely would likely have the biggest impact on reducing churn.
 
 ## How It Would Be Used
