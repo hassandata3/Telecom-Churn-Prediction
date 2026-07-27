@@ -1,5 +1,3 @@
-# Telecom-Churn-Prediction
-
 # Telecom Customer Churn Prediction
 
 Predicts which customers are likely to cancel their service, so retention efforts can be targeted at the right people before they leave.
